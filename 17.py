@@ -1,0 +1,11 @@
+c1=int(input())
+sum=0
+temp=c1
+while(temp>10):
+   digit=temp%10
+   sum+=digit**3
+   temp//=10
+if(c1==sum):
+   print("yes")
+else:
+   print("no")
