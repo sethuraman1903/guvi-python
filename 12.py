@@ -1,5 +1,5 @@
 b1=input()
-if(n1==n1[::-1]):
+if(b1==b1[::-1]):
    print("yes")
 else:
    print("no")
