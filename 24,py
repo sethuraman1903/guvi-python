@@ -1,5 +1,5 @@
-k1=int(input())
-k2=list(map(int,input().split()[:k1]))
+k11=int(input())
+k2=list(map(int,input().split()[:k11]))
 k2.sort()
 for i in k2:
    print(i,end=" ")
