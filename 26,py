@@ -1,0 +1,5 @@
+g1=int(input())
+g2=list(map(int,input().split()))
+g2.sort()
+for i in g2:
+   print(i,end=" ")
