@@ -1,5 +1,5 @@
-g1=int(input())
-g2=list(map(int,input().split()))
-g2.sort()
-for i in g2:
+jkl=int(input())
+bnm=list(map(int,input().split()))
+bnm.sort()
+for i in bnm:
    print(i,end=" ")
